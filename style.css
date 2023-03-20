@@ -1,4 +1,12 @@
+h2 {
+
+    color: red;
+    text-align: center;
+    font-size: 40px;
+}
+
 p {
+
 
     background-color: yellow;
 }
